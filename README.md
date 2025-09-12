@@ -1,9 +1,14 @@
 # Compound_Lens_Modeling
 
+The notebooks provided here perform modeling and analyse the results.
+
 How to perform compound lens modeling
 
 1- Position modeling: Using only positions
     Notebook: Position_modelingF140W_mp.ipynb
+
+3- Obtain Initial parameters for the Chameleon light profile.
+    Notebook:Sersic_to_Chameleon_F140W_conversion_for_initial_parameters.ipynb
 
 2- Extended Modeling (with fixed Distance Ratio)
    Substep1- Notebook: composite_F140W_5_2_original.ipynb
@@ -23,7 +28,8 @@ How to perform compound lens modeling
 
 Save mcmc file and go infer cosmological parameters.
 
-This code uses Lenstronomy Package version=1.12.0. Install Lenstronomy and other required packages from requirements.txt   
+Notes: This code uses Lenstronomy Package version=1.12.0. Install Lenstronomy and other required packages from requirements.txt.  
+Do not forget to change paths to yout input files.
 
 
 
