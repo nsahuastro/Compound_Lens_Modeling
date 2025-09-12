@@ -28,8 +28,9 @@ How to perform compound lens modeling
 
 Save mcmc file and go infer cosmological parameters.
 
-Notes: This code uses Lenstronomy Package version=1.12.0. Install Lenstronomy and other required packages from requirements.txt.  
-Do not forget to change paths to yout input files.
+Notes: This code uses Lenstronomy Package version=1.12.0. Install Lenstronomy and other required packages from requirements.txt. Do not forget to change paths to yout input files.
+
+Citations: if you are using data or code from this project please cite Sahu et al. (2025, https://arxiv.org/abs/2504.00656)
 
 
 
