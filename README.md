@@ -101,7 +101,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or collaboration, please contact [your-email@example.com].
+For questions or collaboration, please contact [nsahu.astro@gmail.com].
 
 # Compound_Lens_Modeling
 
